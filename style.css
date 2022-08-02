@@ -28,13 +28,10 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-
     user-select: none;
-
     margin: 1rem;
     padding: 0 1rem;
     font-size: 2rem;
-
     background-color: #222;
     color : #fff;
     border: 0;
@@ -47,11 +44,9 @@ section {
 
 #telaSmart {
     font-family: 'DM Mono', monospace;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
-    
     user-select: none;
     padding: 1rem;
     border-radius: 20px;
